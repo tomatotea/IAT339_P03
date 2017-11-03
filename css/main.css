@@ -58,9 +58,16 @@ hr{
   margin-top: 1rem;
 }
 
-figure{
-    margin-top: 2rem;
-    margin-bottom:2rem;
+video {
+  margin: 0 auto 0.55em;
+  display: block;
+  text-align: center;
+}
+
+figure > *{
+    margin: 0 auto 0.55em;
+    display: block;
+    text-align: center;
 }
 
 .center{
@@ -68,6 +75,11 @@ figure{
 }
 .text-center{
   text-align: center;
+}
+
+.link-center{
+    display:block;
+    text-align:center
 }
 
 .grid-group{

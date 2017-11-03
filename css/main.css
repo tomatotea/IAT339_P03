@@ -47,7 +47,7 @@ section code {
 }
 
 img {
-  max-width: 50%;
+  max-width: 60%;
 }
 
 hr{
@@ -56,6 +56,11 @@ hr{
   border-color: #C42529;
   width: 95%;
   margin-top: 1rem;
+}
+
+figure{
+    margin-top: 2rem;
+    margin-bottom:2rem;
 }
 
 .center{
